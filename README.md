@@ -1,2 +1,2 @@
 # space-minesweeper
-2D game project using TypeScript 
+2D minesweeper game project using TypeScript and graphic library
